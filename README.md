@@ -8,7 +8,7 @@ Python libraries used are
 
 ## How to use :
 1. Install the required modules (NumPy and cv2)
-2.Open the file cartoon.py in your Python text editor
+2. Open the file cartoon.py in your Python text editor
 
 ## Installation of modules :
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules
