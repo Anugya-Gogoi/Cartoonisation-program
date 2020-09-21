@@ -5,6 +5,7 @@ A simple image cartoonisation program for making animated images from photograph
 Python modules used-
 1. CV2
 2. NumPy
+3. Python code
 
 ## How to use :
 1. Make a .py file in your python text editor
