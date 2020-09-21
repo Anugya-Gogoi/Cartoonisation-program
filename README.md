@@ -7,7 +7,7 @@ Python modules used-
 2. NumPy
 3. Python code
 
-## How to use :
+## How to use?
 1. Make a .py file in your python text editor
 2. Install the required modules (NumPy and cv2)
 3. Write the entire code in cartoon.py
